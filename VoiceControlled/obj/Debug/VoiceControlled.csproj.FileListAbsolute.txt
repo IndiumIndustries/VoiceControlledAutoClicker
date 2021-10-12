@@ -1,0 +1,20 @@
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\bin\Debug\VoiceControlled.exe.config
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\bin\Debug\VoiceControlled.exe
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\bin\Debug\VoiceControlled.pdb
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.Form1.resources
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.Properties.Resources.resources
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.csproj.GenerateResource.cache
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.csproj.CoreCompileInputs.cache
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.exe
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.pdb
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Debug\VoiceControlled.csproj.AssemblyReference.cache
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.csproj.AssemblyReference.cache
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.Form1.resources
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.Properties.Resources.resources
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.csproj.GenerateResource.cache
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.csproj.CoreCompileInputs.cache
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.exe
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\obj\Debug\VoiceControlled.pdb
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\bin\Debug\VoiceControlled.exe.config
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\bin\Debug\VoiceControlled.exe
+C:\Users\leehe\source\repos\VoiceControlled - Copy\VoiceControlled\bin\Debug\VoiceControlled.pdb

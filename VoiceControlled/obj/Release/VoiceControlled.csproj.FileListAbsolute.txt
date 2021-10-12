@@ -1,0 +1,5 @@
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Release\VoiceControlled.csproj.AssemblyReference.cache
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Release\VoiceControlled.Form1.resources
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Release\VoiceControlled.Properties.Resources.resources
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Release\VoiceControlled.csproj.GenerateResource.cache
+C:\Users\leehe\source\repos\VoiceControlled\VoiceControlled\obj\Release\VoiceControlled.csproj.CoreCompileInputs.cache
